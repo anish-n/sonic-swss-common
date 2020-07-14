@@ -248,6 +248,7 @@ namespace swss {
 #define STATE_BGP_TABLE_NAME                        "BGP_STATE_TABLE"
 #define STATE_DEBUG_COUNTER_CAPABILITIES_NAME       "DEBUG_COUNTER_CAPABILITIES"
 #define STATE_NAT_RESTORE_TABLE_NAME                "NAT_RESTORE_TABLE"
+#define STATE_FG_ROUTE_TABLE_NAME                   "FG_ROUTE_TABLE"
 
 /***** MISC *****/
 

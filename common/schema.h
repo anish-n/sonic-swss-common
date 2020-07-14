@@ -281,6 +281,7 @@ namespace swss {
 #define STATE_NAT_RESTORE_TABLE_NAME                "NAT_RESTORE_TABLE"
 
 #define STATE_STP_TABLE_NAME                        "STP_TABLE"
+#define STATE_FG_ROUTE_TABLE_NAME                   "FG_ROUTE_TABLE"
 /***** MISC *****/
 
 #define IPV4_NAME "IPv4"
